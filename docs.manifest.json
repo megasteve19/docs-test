@@ -1,0 +1,75 @@
+[
+	{
+		"title": null,
+		"items": [
+			{
+				"title": "Introduction",
+				"file": "introduction.md"
+			}
+		]
+	},
+	{
+		"title": "Getting Started",
+		"items": [
+			{
+				"title": "Quick Start",
+				"file": "quick-start.md"
+			},
+			{
+				"title": "Installation",
+				"file": "installation.md"
+			},
+			{
+				"title": "Configuration",
+				"file": "configuration.md"
+			},
+			{
+				"title": "Usage",
+				"file": "usage.md"
+			}
+		]
+	},
+	{
+		"title": "Advanced",
+		"items": [
+			{
+				"title": "Customization",
+				"file": "customization.md"
+			},
+			{
+				"title": "API",
+				"file": "api.md"
+			}
+		]
+	},
+	{
+		"title": "Examples",
+		"items": [
+			{
+				"title": "Example 1",
+				"file": "example1.md"
+			},
+			{
+				"title": "Example 2",
+				"file": "example2.md"
+			}
+		]
+	},
+	{
+		"title": null,
+		"items": [
+			{
+				"title": "References",
+				"file": "references.md"
+			},
+			{
+				"title": "Conclusions",
+				"file": "conclusions.md"
+			},
+			{
+				"title": "License",
+				"file": "license.md"
+			}
+		]
+	}
+]
